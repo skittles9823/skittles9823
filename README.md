@@ -6,7 +6,7 @@
 
 ### About me
 <p> I'm Rhyse, AKA Skittles. An amateur programmer who enjoys learning new things and experimenting with small 
-  projects. Currently my main projects are <a href="https://github.com/Skittles9823/QuickSwitch/" target="_blank">QuickSwitch</a> and mainting a custom rom for the Pixel 3a XL called <a href="https://aosip.dev/bonito/" target="_blank">AOSiP</a>
+  projects. Currently my main projects are <a href="https://github.com/Skittles9823/QuickSwitch/" target="_blank">QuickSwitch</a> <s>and mainting a custom rom for the Pixel 3a XL called <a href="https://aosip.dev/bonito/" target="_blank">AOSiP</a></s>
 </p>
 
 - 🌱 I’m currently learning: [**Python**](https://python.org/)
